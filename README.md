@@ -11,7 +11,6 @@ Real-time hand tracking
 Detection of hand landmarks
 Easy integration with other projects
 <br>
-<br>
 
 ### Installation
 To use this module, you need Python installed on your system. Preferably have Pycharm
@@ -26,8 +25,6 @@ Need the following dependencies:
 opencv-python --v 4.9.0.80 <br>
 mediapipe --v 0.10.9 <br>
 python --v 3.8<br>
-<br>
-<br>
 
 ## Usage
 import and use the hand tracking module in your project using:
