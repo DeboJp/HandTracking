@@ -22,7 +22,10 @@ Need the following dependencies:
 `pip install mediapipe`
 <br>
 
-`if using pycharm install the following packages in your project file`
+`if using pycharm install the following packages in your project file`<br>
+opencv-python --v 4.9.0.80 <br>
+mediapipe --v 0.10.9 <br>
+python --v 3.8<br>
 <br>
 <br>
 
